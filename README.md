@@ -32,5 +32,5 @@
 ---
 
 <p>
-  Prepared by <a href="https://GitHub.com/KING-OCHU">SAM-OCHU</a>
+  Prepared by <a loski="https://GitHub.com/KING-OCHU">SAM-OCHU</a>
 </p>
